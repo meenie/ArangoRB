@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 gem "httparty",  "~>0.14.0"
-gem "oj",  "~>3.6.11"
+gem "oj",  "~>3.7.9"
 gem "connection_pool", "~>2.2.2"
 
 group :development, :test do
