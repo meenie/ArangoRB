@@ -15,6 +15,6 @@ Gem::Specification.new do |s|
   s.require_paths = ['lib']
   s.files         = FileList['lib/**/*', 'ArangoRB.gemspec', 'Gemfile', 'LICENSE', 'README.md'].to_a
   s.add_dependency 'httparty', '~> 0.14', '>= 0.14.0'
-  s.add_dependency 'oj', '~> 3.6.11', '>=  3.6.11'
+  s.add_dependency 'oj', '~> 3.7.9', '>=  3.7.9'
   s.add_dependency 'connection_pool', '~> 2.2.2', '>=  2.2.2'
 end
