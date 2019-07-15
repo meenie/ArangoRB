@@ -8,5 +8,4 @@ group :development, :test do
 	gem "rspec",  "~>3.5"
 	gem "awesome_print", "~>1.7"
 	gem "pry-byebug"
-	gem "rake", "~>12.3.2"
 end
